@@ -1,0 +1,10 @@
+Gravitation,Natural phenomenon,False,0.0,0.0,0.0,0.0,0.0,0.0,False,0,0,0,0,0,0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,45489756,45151465
+Gravitation,Force,False,0.0,0.0,0.0,0.0,0.0,0.0,False,0,0,0,0,0,0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,45489756,10902
+Gravitation,Irwin I. Shapiro,False,0.0,0.0,0.0,0.0,0.0,0.0,False,0,0,0,0,0,0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,45489756,9723174
+Gravitation,Arthur Eddington,False,0.0,0.0,0.0,0.0,0.0,0.0,False,0,0,0,0,0,0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,45489756,2274
+Gravitation,Aristotle,False,0.0,0.0,0.0,0.0,0.0,0.0,False,0,0,0,0,0,0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,45489756,308
+Gravitation,Fifth force,False,0.0,0.0,0.0,0.0,0.0,0.0,False,0,0,0,0,0,0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,45489756,169552
+Gravitation,Jacob Bekenstein,False,0.0,0.0,0.0,0.0,0.0,0.0,False,0,0,0,0,0,0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,45489756,561845
+Gravitation,Fundamental interaction,False,0.0,0.0,0.0,0.0,0.0,0.0,False,0,0,0,0,0,0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,45489756,10890
+Gravitation,Contact force,False,0.0,0.0,0.0,0.0,0.0,0.0,False,0,0,0,0,0,0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,45489756,2053742
+Gravitation,Gauss' law for gravity,False,0.0,0.0,0.0,0.0,0.0,0.0,False,0,0,0,0,0,0,0,0,0,False,0.0,0.0,0.0,0.0,0.0,0.0,45489756,34753458

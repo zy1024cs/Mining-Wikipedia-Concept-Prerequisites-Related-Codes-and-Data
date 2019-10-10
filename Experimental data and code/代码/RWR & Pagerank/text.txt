@@ -1,0 +1,249 @@
+Energy,Light,0.0004479447164102561,-1.098026046560821e-05,0,0,0,1,0.0
+Energy,Water,0.00014981573811962562,-1.0834248826912879e-05,0,0,0,1,0.0
+Energy,Lorentz scalar,0.00034808773770331024,-1.1196755069787894e-05,0,0,0,0,0.3010299956639812
+Energy,SunPower,0,-1.1215327207420433e-05,0,0,0,0,0.0
+Energy,Thomas Young (scientist),0,-1.1215327207420433e-05,0,0,0,1,0.0
+Energy,Conjugate variables,0.00034808773770331024,-1.1196755069787894e-05,0,0,0,1,0.0
+Energy,Organelle,0.00038665297571545924,-1.1121130781466292e-05,0,0,0,1,0.0
+Euler's laws of motion,List of topics named after Leonhard Euler,0,-1.857213763253908e-08,0,0,0,0,0.3010299956639812
+Euler's laws of motion,Newton's laws of motion,0.00029587457294207796,0.0,0,0,1,1,0.0
+Euler's laws of motion,Center of mass,1.3451360297395979e-05,3.324462562943137e-08,0,0,0,1,0.0
+Euler's laws of motion,Rigid body,0,-1.857213763253908e-08,0,0,0,1,0.0
+Euler's laws of motion,Torque,4.293745660749374e-06,1.6663072538938627e-08,0,0,0,0,0.0
+Euler's laws of motion,Momentum,0.00032416653467093955,9.292156671906112e-08,0,0,0,1,0.0
+Force,Newton (unit),6.667732783232662e-05,-2.0957272859561148e-08,0,0,0,0,0.0
+Force,Magnet,0,-1.1048180008223464e-07,0,0,0,1,0.0
+Force,Torque,1.4103023032375731e-06,-7.524658991075693e-08,0,0,0,1,0.0
+Force,Circular symmetry,0,-1.1048180008223464e-07,0,0,0,0,0.0
+Force,Gravitational acceleration,5.684003149749477e-06,-8.78596667077067e-08,0,0,0,0,0.0
+Force,Fermion,9.434427195549031e-06,-7.250041860763366e-08,0,0,0,1,0.0
+Force,Volume,3.5716608912878956e-06,-7.753054983919665e-08,0,0,0,0,0.0
+Force,Lepton,0,-1.1048180008223464e-07,0,0,0,1,0.0
+Force,Electromagnetism,5.8112189066210796e-05,-6.752428708990914e-08,0,0,0,1,0.0
+Force,Henry Cavendish,0,-1.1048180008223464e-07,0,0,0,1,0.3010299956639812
+Force,Theory of impetus,0,-1.1048180008223464e-07,0,0,0,1,0.0
+Force,Coriolis effect,0.00022470790576290832,1.5374545762789742e-07,0,0,0,0,0.0
+Frame of reference,Cognitive psychology,0,-1.857213763253908e-08,0,0,0,1,0.0
+Frame of reference,Standard Model,0,-1.857213763253908e-08,0,0,0,1,0.0
+Frame of reference,Generalized coordinates,0,-1.857213763253908e-08,0,0,0,0,0.3010299956639812
+Frame of reference,Quantum field theory,1.6873651388093847e-05,2.3085176397069644e-08,0,0,0,1,0.0
+Frame of reference,Mach's principle,0,-1.857213763253908e-08,0,0,0,1,0.0
+Frame of reference,Special relativity,2.7685824131649043e-05,4.747055175685606e-08,0,0,0,1,0.0
+Frame of reference,Karl Schwarzschild,0,-1.857213763253908e-08,0,0,0,1,0.0
+Frame of reference,Quantum gravity,1.6873651388093847e-05,2.3085176397069644e-08,0,0,0,1,0.0
+Frame of reference,Coriolis effect,4.844155195934272e-05,2.4565512007759295e-07,0,0,0,0,0.3010299956639812
+Frame of reference,Robotics,0,-1.857213763253908e-08,0,0,0,1,0.0
+Frame of reference,Atomic clock,1.7335117599456458e-05,3.594314673334794e-08,0,0,0,1,0.0
+Galilean invariance,Center of momentum frame,0,0.0,0,0,0,0,0.0
+Galilean invariance,Momentum,0,1.114937043516002e-07,0,0,0,0,0.0
+Galilean invariance,Lorentz transformation,0,0.0,0,0,0,0,0.6020599913279624
+Galilean invariance,Maxwell's equations,0,2.4385375359786426e-08,0,0,0,0,0.0
+Galilean invariance,Inertial frame of reference,0,1.857213763253908e-08,0,0,0,1,0.0
+Galilean invariance,Work (physics),0,0.0,0,0,0,0,0.0
+Galilean invariance,Absolute time and space,0,0.0,0,0,0,0,0.3010299956639812
+Galilean invariance,Galileo's ship,0,0.0,0,0,1,0,0.0
+Galilean invariance,Isolated system,0,9.327407161581864e-08,0,0,0,0,0.0
+Galilean invariance,Electromagnetism,0,4.29575129923255e-08,0,0,0,0,0.0
+Galilean invariance,Dialogue Concerning the Two Chief World Systems,0,1.8577680491722382e-08,0,0,1,1,0.3010299956639812
+General relativity,Conservation of energy,0.00015550449785317423,5.036002730985561e-08,0,0,0,1,0.0
+--------------------------
+General relativity,Acceleration,0.0017244994196646151,-2.308517639706963e-08,0,0,0,1,0.0
+General relativity,Gravity Probe B,2.9885345565611774e-06,-3.434816942271145e-08,0,0,0,1,0.3010299956639812
+General relativity,Taub-NUT vacuum,0,-6.729941966574944e-08,0,0,0,0,0.0
+General relativity,Field equation,0,-6.729941966574944e-08,0,0,0,1,0.0
+General relativity,Earth,0.0003888998727103101,1.0483453420611218e-06,0,0,0,1,0.0
+--------------------------
+General relativity,Shapiro delay,0,-6.729941966574944e-08,0,0,1,0,0.0
+General relativity,Geodesic (general relativity),0,-6.729941966574944e-08,0,0,0,0,0.0
+General relativity,Contributors to general relativity,0,-6.729941966574944e-08,0,0,0,0,0.3010299956639812
+General relativity,Density,8.800690384196899e-05,2.752166711449964e-07,0,0,0,1,0.0
+General relativity,Atomic clock,0.00172054137017679,-1.2784135299862426e-08,0,0,0,1,0.0
+--------------------------
+General relativity,Connection (mathematics),0,-6.729941966574944e-08,0,0,0,0,0.0
+General relativity,Equivalence principle,0.0017139394433755171,-4.165731402960871e-08,0,0,0,1,0.0
+General relativity,Proper time,6.60192680127264e-06,-3.842624093600316e-08,0,0,0,0,0.0
+General relativity,Newton's laws of motion,1.0559976289097939e-05,-4.872728203321036e-08,0,0,0,1,0.0
+General relativity,Inertial frame of reference,1.0559976289097939e-05,-4.872728203321036e-08,0,0,0,1,0.0
+General relativity,Gravitational wave detector,0,-6.729941966574944e-08,0,0,0,0,0.0
+General relativity,Ricci curvature,0,-6.729941966574944e-08,0,0,0,0,0.0
+Gravitation,Natural phenomenon,0,-4.418819401798039e-08,0,0,0,1,0.0
+Gravitation,Force,2.8506493425044148e-05,6.629360606425425e-08,0,0,0,0,0.0
+Gravitation,Irwin I. Shapiro,0,-4.418819401798039e-08,0,0,0,0,0.0
+Gravitation,Arthur Eddington,0,-4.418819401798039e-08,0,0,0,0,0.0
+Gravitation,Aristotle,3.31971910926261e-05,4.190348002810144e-08,0,0,0,0,0.0
+Gravitation,Fifth force,0,-4.418819401798039e-08,0,0,0,0,0.0
+Gravitation,Jacob Bekenstein,0,-4.418819401798039e-08,0,0,0,0,0.0
+Gravitation,Fundamental interaction,8.024959245046825e-06,-1.9802818658193963e-08,0,0,0,0,0.0
+Gravitation,Contact force,0,-4.418819401798039e-08,0,0,0,0,0.0
+Gravitation,Gauss' law for gravity,0,-4.418819401798039e-08,0,0,0,0,0.0
+Inertial frame of reference,Absolute time and space,0,-1.857213763253908e-08,0,0,0,0,0.0
+Inertial frame of reference,Force,0.00031812330419083866,9.190966244969556e-08,0,0,0,1,0.0
+Inertial frame of reference,Rest (physics),0,-1.857213763253908e-08,0,0,0,1,0.0
+Inertial frame of reference,Length contraction,0,-1.857213763253908e-08,0,0,0,1,0.0
+Inertial frame of reference,Velocity,1.4412801655612085e-05,2.0945113347861257e-08,0,0,0,1,0.0
+Inertial frame of reference,Rotating reference frame,0,-1.857213763253908e-08,0,0,0,1,0.0
+Inertial frame of reference,Acceleration,0.0003106808473680527,2.564210563614073e-08,0,0,0,0,0.0
+Inertial frame of reference,Coriolis effect,4.844155195934272e-05,2.4565512007759295e-07,0,0,1,0,0.3010299956639812
+Inertial frame of reference,Force carrier,0,-1.857213763253908e-08,0,0,0,1,0.0
+Inertial frame of reference,Galilean transformation,0,-1.857213763253908e-08,0,0,1,0,0.8450980400142568
+Inertial frame of reference,Euler force,0,-1.857213763253908e-08,0,0,0,0,0.3010299956639812
+Inertial frame of reference,Metre,0.0003212114781356431,8.866761800724748e-08,0,0,0,1,0.0
+Inertial frame of reference,Speed of light,4.091025862567551e-05,6.986015538927781e-08,0,0,0,0,0.0
+Inertial frame of reference,Conversion of units,8.613474679943103e-06,3.411450462760145e-08,0,0,0,1,0.0
+Inertial frame of reference,Centrifugal force,0.00029587457294207676,0.0,0,0,0,1,0.0
+Inertial frame of reference,Euclidean vector,0,-1.857213763253908e-08,0,0,0,0,0.0
+Inertial frame of reference,Translation (physics),0,-1.857213763253908e-08,0,0,0,0,0.0
+Inertial frame of reference,Non-inertial reference frame,0.00029587457294207676,0.0,0,0,0,1,0.0
+Inertial frame of reference,Geodesic deviation equation,0,-1.857213763253908e-08,0,0,0,0,0.0
+Inertial frame of reference,John Archibald Wheeler,0,-1.857213763253908e-08,0,0,0,0,0.3010299956639812
+Inertial frame of reference,Entailment,0,-1.857213763253908e-08,0,0,0,0,0.0
+Inertial frame of reference,Local reference frame,0,-1.857213763253908e-08,0,0,0,1,0.3010299956639812
+Isaac Newton,Great Plague of London,0,-9.217474903082657e-08,0,0,0,1,0.0
+Isaac Newton,Power series,4.5262070054590944e-07,-6.584817186340863e-08,0,0,0,0,0.0
+Isaac Newton,1st Earl of Halifax,0,-9.217474903082657e-08,0,0,0,0,0.0
+Isaac Newton,Earth,0.00048254944147005146,1.0234700126960448e-06,0,0,1,1,0.3010299956639812
+Isaac Newton,Internet Archive,5.4298161804127286e-06,-1.1941474658073277e-08,0,0,0,1,0.0
+Isaac Newton,Ren¨¦ Descartes,0,-9.217474903082657e-08,0,0,0,1,0.0
+Isaac Newton,Socinianism,0,-9.217474903082657e-08,0,0,0,1,0.0
+Isaac Newton,Oxford University Museum of Natural History,0,-9.217474903082657e-08,0,0,0,1,0.6020599913279624
+Isaac Newton,MIT Press,6.224909182017647e-06,1.375086944945596e-08,0,0,0,1,0.3010299956639812
+Isaac Newton,Godfrey Kneller,0,-9.217474903082657e-08,0,0,0,1,0.6020599913279624
+Mass,Classical mechanics,8.231759932174764e-05,-3.020253033522778e-08,0,0,0,1,0.0
+Mass,Weight,1.4839725580741192e-05,-5.490444183452722e-08,0,0,0,1,0.0
+Mass,Physics,0.00012516464566664657,1.4344036409289597e-07,0,0,0,1,0.0
+Mass,Electrodeposition,0,-9.043198199737559e-08,0,0,0,0,0.0
+Mass,Mass in general relativity,0,-9.043198199737559e-08,0,0,0,1,0.0
+Mass,Mercury (planet),1.7460919039746536e-05,8.377464209909414e-09,0,0,0,1,0.0
+Mass,Bohr radius,0,-9.043198199737559e-08,0,0,0,1,0.3010299956639812
+Mass,Frank Wilczek,0,-9.043198199737559e-08,0,0,0,1,0.3010299956639812
+Mass,Gravitational time dilation,2.7131877242073266e-06,-6.15588032676293e-08,0,0,0,0,0.0
+Momentum,Four-momentum,0,-1.114937043516002e-07,0,0,0,0,0.0
+Momentum,Frame of reference,5.402776062839359e-05,-9.292156671906112e-08,0,0,0,0,0.0
+Momentum,Werner Heisenberg,0,-1.114937043516002e-07,0,0,0,1,0.0
+Momentum,International System of Units,9.091590123468411e-05,7.222119385286139e-08,0,0,1,0,0.0
+Momentum,Dielectric,9.857625050220218e-06,-7.637544049152243e-08,0,0,0,0,0.0
+Momentum,Jean Buridan,0,-1.114937043516002e-07,0,0,0,0,0.3010299956639812
+Momentum,Proper time,2.4597455469373925e-06,-8.262052562185392e-08,0,0,0,0,0.0
+Momentum,Conservation law,5.402776062839359e-05,-9.292156671906112e-08,0,0,0,1,0.0
+Momentum,Quantum mechanics,0.00016491238159398855,1.9462189453714088e-08,0,0,0,1,0.0
+Momentum,Stiffness,0,-1.114937043516002e-07,0,0,0,1,0.0
+Momentum,John Wallis,0,-1.114937043516002e-07,0,0,0,0,0.3010299956639812
+Net force,Point (geometry),0,3.2951250243037994e-08,0,0,0,0,0.0
+Net force,Euclidean vector,0,0.0,0,0,0,0,0.0
+Net force,Absolute value,0,0.0,0,0,0,0,0.0
+Net force,Mechanics,0,3.760731828761986e-08,0,0,0,0,0.0
+Newton's laws of motion,List of scientific laws named after people,0,-1.857213763253908e-08,0,0,0,0,0.3010299956639812
+Newton's laws of motion,Wave function,0,-1.857213763253908e-08,0,0,0,0,0.0
+Newton's laws of motion,Semiconductor,0,-1.857213763253908e-08,0,0,0,1,0.0
+Newton's laws of motion,Parallel,0,-1.857213763253908e-08,0,0,0,0,0.0
+Newton's laws of motion,Differentiation,0,-1.857213763253908e-08,0,0,0,0,0.0
+--------------------------
+Newton's laws of motion,Hypotheses non fingo,0,-1.857213763253908e-08,0,0,0,1,0.0
+Newton's laws of motion,Continuum mechanics,0.000318520127429562,6.02349945213311e-08,0,0,0,1,0.0
+Newton's laws of motion,Principle of relativity,0,-1.857213763253908e-08,0,0,0,1,0.3010299956639812
+Newton's laws of motion,Acceleration,0.0003106808473680528,2.564210563614073e-08,0,0,0,0,0.0
+Newton's laws of motion,Angular momentum,0.00031919165480996545,8.262607981959489e-08,0,0,0,0,0.0
+Newton's laws of motion,Thrust,0,-1.857213763253908e-08,0,0,0,0,0.0
+Newton's laws of motion,Inertia,0.00029587457294207687,0.0,0,0,0,1,0.0
+Newton's laws of motion,Motion (physics),0.00029587457294207687,0.0,0,0,0,1,0.0
+Newton's laws of motion,Newton's law of universal gravitation,0.0003016464760414682,1.8577680491722385e-08,0,0,1,1,0.0
+Newton's laws of motion,Action at a distance (physics),0,-1.857213763253908e-08,0,0,0,0,0.0
+Newton's laws of motion,Fermion,1.6176615210607242e-05,1.9409243842061903e-08,0,0,0,1,0.0
+Newton's laws of motion,Spin (physics),5.779993841113831e-06,4.948493805825569e-09,0,0,0,1,0.0
+Newton's laws of motion,Center of mass,1.3451360297395979e-05,3.324462562943137e-08,0,0,0,1,0.0
+Newton's laws of motion,Kepler's laws of planetary motion,0,-1.857213763253908e-08,0,0,1,1,0.0
+Newton's laws of motion,Force,0.00031812330419083877,9.190966244969556e-08,0,0,0,1,0.3010299956639812
+Newton's laws of motion,Noether's theorem,0.00029587457294207687,0.0,0,0,0,1,0.0
+Newton's laws of motion,Standard Model,0,-1.857213763253908e-08,0,0,0,1,0.0
+Newton's laws of motion,Superconductivity,0,-1.857213763253908e-08,0,0,0,1,0.0
+Newton's laws of motion,Net force,0,-1.857213763253908e-08,0,0,0,0,0.0
+Newton's laws of motion,Conservation law,0.00029587457294207687,0.0,0,0,0,1,0.0
+Newton's laws of motion,Deformation (mechanics),0,-1.857213763253908e-08,0,0,0,0,0.0
+Newton's laws of motion,Impulse (physics),0.00029587457294207687,0.0,0,0,0,1,0.0
+Newton's laws of motion,Ren¨¦ Descartes,0,-1.857213763253908e-08,0,0,0,1,0.3010299956639812
+Newton's laws of motion,Constant factor rule in differentiation,0,-1.857213763253908e-08,0,0,0,0,0.0
+Newton's laws of motion,Energy,0.17891709717949414,1.1196755069787894e-05,0,0,0,1,0.0
+Newton's laws of motion,Force field (physics),0,-1.857213763253908e-08,0,0,0,0,0.0
+Newton's laws of motion,Gauge theory,0,-1.857213763253908e-08,0,0,0,0,0.0
+Newton's laws of motion,Momentum operator,0,-1.857213763253908e-08,0,0,0,0,0.0
+Newton's laws of motion,Isaac Newton,0.00031096624382432567,7.360261139828748e-08,0,0,1,1,0.3010299956639812
+Newton's laws of motion,Operator (physics),0.00029587457294207687,0.0,0,0,0,0,0.0
+Newton's laws of motion,Classical mechanics,0.00031274822433017066,4.1657314029608726e-08,0,0,1,1,0.0
+Newton's laws of motion,Momentum,0.0003241665346709384,9.292156671906112e-08,0,0,0,1,0.0
+Newton's laws of motion,Reaction (physics),0,-1.857213763253908e-08,0,0,0,1,0.3010299956639812
+Newton's laws of motion,Quantum state,0,-1.857213763253908e-08,0,0,0,0,0.0
+Newton's laws of motion,Special relativity,2.7685824131649043e-05,4.747055175685606e-08,0,0,0,1,0.0
+Newton's laws of motion,Leonhard Euler,0.0003016464760414682,1.8577680491722385e-08,0,0,0,1,0.3010299956639812
+Newton's laws of motion,Uniform circular motion,0,-1.857213763253908e-08,0,0,0,0,0.0
+Newton's laws of motion,Mass,0.00034990399951009463,7.18598443648365e-08,0,0,0,1,0.0
+Newton's laws of motion,Classical electromagnetism,2.7685824131649043e-05,4.747055175685606e-08,0,0,0,1,0.0
+Newton's laws of motion,Plasticity (physics),0,-1.857213763253908e-08,0,0,0,1,0.0
+Newton's laws of motion,Hamiltonian mechanics,0.00031274822433017066,4.1657314029608726e-08,0,0,0,1,0.3010299956639812
+Newton's laws of motion,Speed of light,4.091025862567551e-05,6.986015538927781e-08,0,0,0,1,0.0
+Newton's laws of motion,Wolfram Demonstrations Project,0,-1.857213763253908e-08,0,0,0,0,0.3010299956639812
+--------------------------
+--------------------------
+--------------------------
+--------------------------
+--------------------------
+--------------------------
+--------------------------
+--------------------------
+--------------------------
+--------------------------
+--------------------------
+--------------------------
+--------------------------
+--------------------------
+--------------------------
+--------------------------
+--------------------------
+--------------------------
+Quantum mechanics,Niels Bohr,6.104496959747749e-06,-1.0368379586660863e-07,0,0,0,1,0.9030899869919435
+Quantum mechanics,Bra-ket notation,0,-1.3095589380531428e-07,0,0,0,0,0.0
+Quantum mechanics,Self-adjoint operator,0,-1.3095589380531428e-07,0,0,0,0,0.0
+Quantum mechanics,List of quantum-mechanical systems with analytical solutions,0,-1.3095589380531428e-07,0,0,0,1,0.3010299956639812
+Quantum mechanics,Princeton University Press,9.967635216880585e-05,-4.779149013460355e-08,0,0,0,1,0.6020599913279624
+Quantum mechanics,Position operator,0,-1.3095589380531428e-07,0,0,0,1,0.0
+Quantum mechanics,Frequency,0.0004694191722887113,3.033007450077153e-08,0,0,0,0,0.0
+Quantum mechanics,Molecule,8.317320377852629e-05,1.0008378485583989e-07,0,0,1,1,0.0
+Quantum mechanics,Superposition principle,9.105680885170059e-05,-1.0657051844552786e-07,0,0,0,1,0.0
+Quantum mechanics,Many-worlds interpretation,0,-1.3095589380531428e-07,0,0,0,1,0.0
+Quantum mechanics,Determinism,0,-1.3095589380531428e-07,0,0,0,1,0.0
+--------------------------
+Quantum mechanics,Quantum superposition,0,-1.3095589380531428e-07,0,0,0,1,0.0
+Special relativity,G¨¹nter Nimtz,0,-6.604268938939514e-08,0,0,0,1,0.0
+Special relativity,String theory,0,-6.604268938939514e-08,0,0,0,1,0.0
+Special relativity,Galileo Galilei,4.9815733150408584e-05,-6.597188922406091e-09,0,0,1,1,0.3010299956639812
+Special relativity,Gravitation,0.00018304802408992938,-2.185449537141475e-08,0,0,0,0,0.0
+Special relativity,Velocity,0.00016866201402564673,-2.6525438408994803e-08,0,0,0,0,0.0
+Special relativity,Absolute time and space,0,-6.604268938939514e-08,0,0,0,0,0.0
+Special relativity,Time dilation,3.391426075866452e-06,-3.7169510659648855e-08,0,0,0,1,0.0
+Special relativity,Mass,3.061966385350422e-05,2.4389292607980445e-08,0,0,1,1,0.0
+Special relativity,Frame of reference,9.228609041717916e-06,-4.747055175685606e-08,0,0,0,1,0.3010299956639812
+Special relativity,Invariant (physics),0,-6.604268938939514e-08,0,0,1,1,0.0
+Special relativity,Fine structure,0,-6.604268938939514e-08,0,0,0,0,0.0
+Special relativity,Four-acceleration,0,-6.604268938939514e-08,0,0,0,0,0.0
+Special relativity,Particle accelerator,0.00017642648192969958,-2.1726015218673606e-08,0,0,0,0,0.3010299956639812
+Special relativity,Relativity of simultaneity,0,-6.604268938939514e-08,0,0,0,1,0.0
+Special relativity,Electromagnetic tensor,0.0001641980956668004,-4.165731402960871e-08,0,0,0,0,0.0
+Special relativity,Observer (special relativity),0,-6.604268938939514e-08,0,0,0,1,0.0
+Special relativity,Twin paradox,0,-6.604268938939514e-08,0,0,0,1,0.3010299956639812
+Special relativity,Aether drag hypothesis,0,-6.604268938939514e-08,0,0,0,0,0.3010299956639812
+Speed of light,Field (physics),2.1542243974492283e-05,3.3334419887733155e-09,0,0,0,1,0.0
+Speed of light,Sunlight,0.0002672670302216945,1.3211692184777444e-07,0,0,0,0,0.3010299956639812
+Speed of light,Isaac Newton,2.0007749147879053e-05,3.742456009009672e-09,0,0,0,1,0.3010299956639812
+Speed of light,International System of Units,0.0006983653865245945,9.52826051826447e-08,0,0,1,1,0.7781512503836436
+Speed of light,Louis Essen,0,-8.84322930218169e-08,0,0,0,1,0.6020599913279624
+Speed of light,Higgs mechanism,0,-8.84322930218169e-08,0,0,0,1,0.3010299956639812
+Velocity,Hypervelocity,0,-3.951725098040034e-08,0,0,0,1,0.3010299956639812
+Velocity,Classical mechanics,2.0962999841278446e-05,2.071220068174747e-08,0,0,1,0,0.0
+Velocity,Four-velocity,0,-3.951725098040034e-08,0,0,0,0,0.3010299956639812
+Velocity,Radial velocity,2.589993827352865e-06,-5.639380692509948e-09,0,0,0,0,0.0
+Velocity,Terminal velocity,0,-3.951725098040034e-08,0,0,0,1,0.3010299956639812
+Velocity,Phase velocity,0.0002981506277981908,-9.212363693586904e-09,0,0,0,0,0.3010299956639812
+Velocity,Torricelli's equation,0,-3.951725098040034e-08,0,0,0,1,0.0
+Velocity,Relative velocity,7.206401761933116e-06,-2.0945113347861257e-08,0,0,0,1,0.0
+Velocity,Minkowski space,0,-3.951725098040034e-08,0,0,0,0,0.0
+Velocity,Speed,3.4655352783990666e-05,1.2670904314101354e-09,0,0,0,1,0.3010299956639812
+Velocity,Proper velocity,0,-3.951725098040034e-08,0,0,0,0,0.3010299956639812
